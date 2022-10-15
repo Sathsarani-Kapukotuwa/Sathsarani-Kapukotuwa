@@ -40,11 +40,8 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathsarani-Kapukotuwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
-<!--
+
 **Sathsarani-Kapukotuwa/Sathsarani-Kapukotuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,4 +54,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
