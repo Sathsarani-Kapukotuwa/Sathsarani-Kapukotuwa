@@ -1,11 +1,9 @@
 # Hi there, I'm Sathsarani Kapukotuwa 👋
-
 <p align="center">
     <a href="https://www.linkedin.com/in/sathsarani-kapukotuwa-8579aa21a">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
     </a>
 </p>
-
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathsarani-Kapukotuwa&show_icons=true&theme=tokyonight) <br />
