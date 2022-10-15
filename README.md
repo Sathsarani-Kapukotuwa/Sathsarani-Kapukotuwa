@@ -5,7 +5,6 @@
 - 📫 How to reach me: sathsaranikapukotuwa@gmail.com
 
 ---
-
 <p align="center">
     <a href="https://www.linkedin.com/in/sathsarani-kapukotuwa-8579aa21a">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
