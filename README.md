@@ -1,7 +1,7 @@
 # Hi there, I'm Sathsarani Kapukotuwa 👋
 
 ### About me
-- :school: I'm currently studying at Department of Computer Science and Engineering, University of Moratuwa
+- :school: I'm currently studying at : Department of Computer Science and Engineering, University of Moratuwa
 - 📫 How to reach me: sathsaranikapukotuwa@gmail.com
 
 ---
