@@ -1,8 +1,7 @@
 ### Hi there, I'm Sathsarani Kapukotuwa 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathsarani-Kapukotuwa&show_icons=true&theme=tokyonight)
-
-<img align="left" alt="PHP" src="![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)"/>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathsarani-Kapukotuwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
