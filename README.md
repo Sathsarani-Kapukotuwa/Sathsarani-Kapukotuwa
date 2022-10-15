@@ -1,4 +1,4 @@
-### Hi there, I'm Sathsarani Kapukotuwa 👋
+# Hi there, I'm Sathsarani Kapukotuwa 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathsarani-Kapukotuwa&show_icons=true&theme=tokyonight) <br />
 
@@ -41,8 +41,9 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
-# About me
+### About me
 - :school: I'm currently studying at Department of Computer Science and Engineering, University of Moratuwa
+- 📫 How to reach me: sathsaranikapukotuwa@gmail.com
 
 <!--
 **Sathsarani-Kapukotuwa/Sathsarani-Kapukotuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
