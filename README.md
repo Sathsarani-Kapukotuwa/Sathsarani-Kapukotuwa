@@ -41,7 +41,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
-- :office: I'm currently studying at Department of Computer SCience and Engineering, University of Moratuwa
+# About me
+- :school: I'm currently studying at Department of Computer Science and Engineering, University of Moratuwa
 
 <!--
 **Sathsarani-Kapukotuwa/Sathsarani-Kapukotuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
